@@ -14,7 +14,7 @@
 **Dosen Pengampu:** Agung Nugroho, S.Kom., M.Kom.  
 
 ---
-
+```
 ## 💻 Deskripsi Proyek
 Proyek ini merupakan implementasi tugas **UTS Pemrograman Web 1** dengan membuat aplikasi web bernama **Toko Buku Online (Bookstore App v3)**.  
 Aplikasi ini dikembangkan menggunakan **HTML, CSS, dan JavaScript murni (tanpa framework)** dengan konsep interaktif berbasis **DOM Manipulation** dan penyimpanan data menggunakan **LocalStorage**.
