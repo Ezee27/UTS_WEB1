@@ -4,7 +4,6 @@
 
 ## 📘 README.md — Toko Buku IT (UTS Pemrograman Web 1)
 
-```markdown
 # 📚 UTS PEMROGRAMAN WEB 1
 
 **Nama:** Zaenal Maulana Rizki  
@@ -14,7 +13,7 @@
 **Dosen Pengampu:** Agung Nugroho, S.Kom., M.Kom.  
 
 ---
-```
+
 ## 💻 Deskripsi Proyek
 Proyek ini merupakan implementasi tugas **UTS Pemrograman Web 1** dengan membuat aplikasi web bernama **Toko Buku Online (Bookstore App v3)**.  
 Aplikasi ini dikembangkan menggunakan **HTML, CSS, dan JavaScript murni (tanpa framework)** dengan konsep interaktif berbasis **DOM Manipulation** dan penyimpanan data menggunakan **LocalStorage**.
@@ -114,23 +113,3 @@ Seluruh data (pengguna, katalog, dan tracking) bersifat lokal dan digunakan hany
 4. Jelajahi menu katalog, checkout, history, dan tracking.
 
 ---
-
-## 🏷️ Catatan
-Aplikasi ini bersifat statis dan digunakan untuk **keperluan akademik** (bukan komersial).  
-Seluruh aset gambar pada katalog hanya digunakan sebagai ilustrasi.
-
-```
-
----
-
-### ✨ Petunjuk
-
-Salin teks di atas ke file bernama `README.md`, lalu:
-
-* Letakkan di dalam folder `bookstore_app_v3`
-* Upload seluruh isi folder ke GitHub
-
----
-
-Kalau kamu mau, aku bisa kirimkan file `README.md` versi ini langsung (siap diunduh) biar kamu tinggal upload ke repo.
-Apakah mau saya buatkan file-nya (`README.md`) biar kamu tinggal drag ke GitHub?
